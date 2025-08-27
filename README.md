@@ -69,10 +69,17 @@
 
 ## 7. 사용 예시
 
+<img width="1914" height="970" alt="image" src="https://github.com/user-attachments/assets/1aa85bc8-38dc-4e60-9c23-d3a4da01369d" />
 
+<img width="835" height="616" alt="image" src="https://github.com/user-attachments/assets/7b1160c0-baa8-4022-a058-7f73936661b8" />
 
+<img width="668" height="378" alt="image" src="https://github.com/user-attachments/assets/12ab1233-90f7-48f5-91d7-17efb62096fc" />
 
+<img width="560" height="465" alt="image" src="https://github.com/user-attachments/assets/b0b51507-13fe-4a35-995b-afa942b9c80b" />
 
+<img width="309" height="187" alt="image" src="https://github.com/user-attachments/assets/309b6f05-b9b0-4a1f-878e-ba7281a03e4c" />
+
+<img width="378" height="194" alt="image" src="https://github.com/user-attachments/assets/2584b7ab-cec2-4781-9dd7-bfeaa56216b2" />
 
 
 
